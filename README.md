@@ -11,8 +11,8 @@
 
 <h2 align="left">Languages and Tools</h2>
 <h4 align="left">Profecient:</h4>
-<img src="https://img.shields.io/badge/HTML-404040?style=for-the-badge&logo=html5" style="white-space: nowrap;">
-<img src="https://img.shields.io/badge/JavaScript-404040?style=for-the-badge&logo=javascript" style="white-space: nowrap;"> 
+<img src="https://img.shields.io/badge/HTML-404040?style=for-the-badge&logo=html5" style="margin-right: 10px;">
+<img src="https://img.shields.io/badge/JavaScript-404040?style=for-the-badge&logo=javascript"> 
   
 <h4 align="left">Experienced:</h4>
 
