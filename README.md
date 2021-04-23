@@ -44,6 +44,7 @@
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-2E3440?style=for-the-badge&logo=ant%20design)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-2E3440?style=for-the-badge&logo=tailwind%20css)
 ![Material-UI](https://img.shields.io/badge/Material%20UI-2E3440?style=for-the-badge&logo=material-ui)
+![Styled-Components](https://img.shields.io/badge/Styled%20Components-2E3440?style=for-the-badge&logo=styled-components)
 
 <h2 align="left">Stats</h2>
 
