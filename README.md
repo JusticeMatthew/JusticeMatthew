@@ -1,5 +1,7 @@
 <h1 align="center">Hello, World!<br>I'm Matthew</h1>
+<br>
 <h2 align="center">I am a full-stack web developer in the US driven by learning and understanding</h2>
+<br>
 
 ⚒ I am currently working on [HRF Asylum](https://github.com/Lambda-School-Labs/human-rights-first-asylum-fe-a)
 
@@ -8,7 +10,7 @@
 📫 You can reach me at **matthewajustice@gmail.com**
 
 👀 Take a peek at my [Portfolio](https://justice-portfolio.vercel.app/) or [Resume](https://docs.google.com/document/d/1XSTyd6zWcjnw9IMolWHHrZOU9A4LkUAu6DNpRCtfxvA/edit?usp=sharing)
-
+<br>
 ## Languages and Tools
 ### Profecient:
 ###### I am extremely comfortable using these and do so regularly
