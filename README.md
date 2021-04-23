@@ -1,13 +1,13 @@
 <h1 align="center">Hello, World!<br>I'm Matthew.</h1>
 <h3 align="center">I am a full-stack web developer in the US driven by learning and understanding.</h3>
 
-- 🔭 I am currently working on [HRF Asylum](https://github.com/Lambda-School-Labs/human-rights-first-asylum-fe-a)
+- ⚒ I am currently working on [HRF Asylum](https://github.com/Lambda-School-Labs/human-rights-first-asylum-fe-a)
 
 - 🌱 I am currently learning **Nextjs, Kotlin, Solidity**
 
 - 📫 You can reach me at **matthewajustice@gmail.com**
 
-- 👨‍💻 Take a peek at my [Portfolio](https://justice-portfolio.vercel.app/) or [resume](https://docs.google.com/document/d/1XSTyd6zWcjnw9IMolWHHrZOU9A4LkUAu6DNpRCtfxvA/edit?usp=sharing)
+- 👀 Take a peek at my [Portfolio](https://justice-portfolio.vercel.app/) or [Resume](https://docs.google.com/document/d/1XSTyd6zWcjnw9IMolWHHrZOU9A4LkUAu6DNpRCtfxvA/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
