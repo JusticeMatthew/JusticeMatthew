@@ -11,10 +11,11 @@
 
 ## Languages and Tools
 ### Profecient:
-![JavaScript](https://img.shields.io/badge/HTML-404040?style=for-the-badge&logo=html5)
-<img src="https://img.shields.io/badge/JavaScript-404040?style=for-the-badge&logo=javascript"> 
+![HTML](https://img.shields.io/badge/HTML-404040?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-404040?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-404040?style=for-the-badge&logo=javascript)
   
-<h4 align="left">Experienced:</h4>
+### Experienced:
 
 <h2 align="left">Stats</h2>
 
