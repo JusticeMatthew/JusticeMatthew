@@ -11,7 +11,7 @@
 
 ## Languages and Tools
 ### Profecient:
-<sup>I am extremely comfortable using these and do so regularly</sup><br>
+###### I am extremely comfortable using these and do so regularly
 ![HTML](https://img.shields.io/badge/HTML-2E3440?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-2E3440?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2E3440?style=for-the-badge&logo=javascript)
@@ -30,7 +30,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-2E3440?style=for-the-badge&logo=visual%20studio)
   
 ### Experienced:
-<sup>I am comfortable using these as needed but still have a lot to learn</sup><br>
+###### I am comfortable using these as needed but still have a lot to learn
 ![Next js](https://img.shields.io/badge/Next%20js-2E3440?style=for-the-badge&logo=next.js)
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
 ![AWS Amplify](https://img.shields.io/badge/Amplify-2E3440?style=for-the-badge&logo=aws%20amplify)
