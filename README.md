@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World!👋, I'm Matthew</h1>
+<h1 align="center">Hello, World!<br>I'm Matthew.</h1>
 <h3 align="center">I am a full-stack web developer in the US driven by learning and understanding.</h3>
 
 - 🔭 I’m currently working on [HRF Asylum](https://github.com/Lambda-School-Labs/human-rights-first-asylum-fe-a)
