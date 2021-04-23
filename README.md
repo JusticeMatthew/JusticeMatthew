@@ -15,7 +15,7 @@
 </p>
 
 <h2 align="left">Languages and Tools:</h3>
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+[JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript);
 
 <h2 align="left">Stats:</h3>
 
