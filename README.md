@@ -22,6 +22,6 @@
 <h2 align="left">Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=justicematthew&show_icons=true&locale=en&&theme=nord&&layout=compact" alt="justicematthew" />
+<img src="https://github-readme-stats.vercel.app/api?username=justicematthew&show_icons=true&locale=en&&theme=nord&&layout=compact&hide_border=true" alt="justicematthew" />
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 </p>
