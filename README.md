@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Nextjs, Kotlin, Solidity**
 
-- 👨‍💻 All of my projects are available at [https://justice-portfolio.vercel.app/](https://justice-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available [here](https://justice-portfolio.vercel.app/)
 
-- 📫 How to reach me **matthewajustice@gmail.com**
+- 📫 You can reach me at **matthewajustice@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1XSTyd6zWcjnw9IMolWHHrZOU9A4LkUAu6DNpRCtfxvA/edit?usp=sharing](https://docs.google.com/document/d/1XSTyd6zWcjnw9IMolWHHrZOU9A4LkUAu6DNpRCtfxvA/edit?usp=sharing)
+- 📄 Take a peek at my [resume](https://docs.google.com/document/d/1XSTyd6zWcjnw9IMolWHHrZOU9A4LkUAu6DNpRCtfxvA/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
