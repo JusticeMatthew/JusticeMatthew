@@ -15,8 +15,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Stats:</h3>
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=justicematthew&show_icons=true&locale=en&&theme=algolia&&layout=compact" alt="justicematthew" />
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
-<img src="https://github-readme-stats.vercel.app/api?username=justicematthew&show_icons=true&locale=en&&theme=algolia&&layout=compact" alt="justicematthew" /></p>
 </p>
