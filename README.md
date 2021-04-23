@@ -1,6 +1,6 @@
 <h1 align="center">Hello, World!<br>I'm Matthew</h1>
 <br>
-<h2 align="center">I am a full-stack web developer in the US driven by learning and understanding</h2>
+<h2 align="center">I am a full-stack web developer in the US<br>I am driven by learning and understanding</h2>
 <br>
 
 ⚒ I am currently working on [HRF Asylum](https://github.com/Lambda-School-Labs/human-rights-first-asylum-fe-a)
