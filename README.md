@@ -9,9 +9,9 @@
 
 - 👀 Take a peek at my [Portfolio](https://justice-portfolio.vercel.app/) or [Resume](https://docs.google.com/document/d/1XSTyd6zWcjnw9IMolWHHrZOU9A4LkUAu6DNpRCtfxvA/edit?usp=sharing)
 
-<h2 align="left">Languages and Tools</h2>
-<h4 align="left">Profecient:</h4>
-<img src="https://img.shields.io/badge/HTML-404040?style=for-the-badge&logo=html5" style="margin-right: 10px;">
+## Languages and Tools
+### Profecient:
+![JavaScript](https://img.shields.io/badge/HTML-404040?style=for-the-badge&logo=html5)
 <img src="https://img.shields.io/badge/JavaScript-404040?style=for-the-badge&logo=javascript"> 
   
 <h4 align="left">Experienced:</h4>
