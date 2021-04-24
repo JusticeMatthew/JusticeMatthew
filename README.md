@@ -5,7 +5,7 @@
 
 ⚒ I am currently working on [HRF Asylum](https://github.com/Lambda-School-Labs/human-rights-first-asylum-fe-a)
 
-🌱 I am currently learning **Kotlin and Solidity**
+🌱 I am currently learning **Kotlin**
 
 📫 You can reach me at **matthewajustice@gmail.com**
 
