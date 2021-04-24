@@ -12,7 +12,7 @@
 👀 Take a peek at my [Portfolio](https://justice-portfolio.vercel.app/) or [Resume](https://docs.google.com/document/d/1XSTyd6zWcjnw9IMolWHHrZOU9A4LkUAu6DNpRCtfxvA/edit?usp=sharing)
 <br>
 ## Languages and Tools
-### Profecient:
+### Proficient:
 ###### I am extremely comfortable using these and do so regularly
 ![HTML](https://img.shields.io/badge/HTML-2E3440?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-2E3440?style=for-the-badge&logo=css3)
