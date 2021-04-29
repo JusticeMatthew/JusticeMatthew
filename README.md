@@ -26,7 +26,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E3440?style=for-the-badge&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/SQLite-2E3440?style=for-the-badge&logo=sqlite)
 ![npm](https://img.shields.io/badge/npm-2E3440?style=for-the-badge&logo=npm)
-![git](https://img.shields.io/badge/git-2E3440?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/Git-2E3440?style=for-the-badge&logo=Git)
 ![Github](https://img.shields.io/badge/GitHub-2E3440?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-2E3440?style=for-the-badge&logo=Postman)
 ![VS Code](https://img.shields.io/badge/VS%20Code-2E3440?style=for-the-badge&logo=visual%20studio)
