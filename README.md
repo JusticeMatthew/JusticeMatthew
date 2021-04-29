@@ -5,7 +5,7 @@
 
 ⚒ I am currently working on [HRF Asylum](https://github.com/Lambda-School-Labs/human-rights-first-asylum-fe-a)
 
-🌱 I am currently learning **Kotlin**
+🌱 I am currently learning **Typescript**
 
 📫 You can reach me at **matthewajustice@gmail.com**
 
