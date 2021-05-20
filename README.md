@@ -20,7 +20,7 @@
 ![React](https://img.shields.io/badge/React-2E3440?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-2E3440?style=for-the-badge&logo=redux)
 ![React Router](https://img.shields.io/badge/React%20Router-2E3440?style=for-the-badge&logo=react%20router)
-![Node](https://img.shields.io/badge/Node-2E3440?style=for-the-badge&logo=node.js)
+![Node](https://img.shields.io/badge/Node-2E3440?style=for-the-badge&logo=node-dot-js)
 ![Heroku](https://img.shields.io/badge/Heroku-2E3440?style=for-the-badge&logo=heroku)
 ![Express](https://img.shields.io/badge/Express-2E3440?style=for-the-badge&logo=express)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E3440?style=for-the-badge&logo=postgresql)
@@ -33,7 +33,7 @@
   
 ### Experienced:
 ###### I am comfortable using these as needed but still have a lot to learn
-![Next js](https://img.shields.io/badge/Next%20js-2E3440?style=for-the-badge&logo=next.js)
+![Next js](https://img.shields.io/badge/Next%20js-2E3440?style=for-the-badge&logo=next-dot-js)
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
 ![AWS Amplify](https://img.shields.io/badge/Amplify-2E3440?style=for-the-badge&logo=aws%20amplify)
 ![Amazon s3](https://img.shields.io/badge/Amazon%20s3-2E3440?style=for-the-badge&logo=Amazon%20S3)
