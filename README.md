@@ -5,7 +5,7 @@
 
 ⚒ I am currently working on [B&C Pest Control](http://bandcpestcontrol.com/) & [Hardstuck.gg](https://hardstuck.gg/)
 
-🌱 I am currently learning **Typescript**
+🌱 I am currently learning **React Native**
 
 📫 You can reach me at **matthewajustice@gmail.com**
 
