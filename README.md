@@ -3,7 +3,7 @@
 <h2 align="center">I am a full-stack web developer in the US<br>I am driven by learning and understanding</h2>
 <br>
 
-⚒ I am currently working on B&C Pest Control
+⚒ I am currently working on [B&C Pest Control](http://bandcpestcontrol.com/) & [Hardstuck.gg](https://hardstuck.gg/)
 
 🌱 I am currently learning **Typescript**
 
