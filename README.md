@@ -9,7 +9,7 @@
 
 📫 You can reach me at **matthewajustice@gmail.com**
 
-👀 Take a peek at my [Resume](https://docs.google.com/document/d/1XSTyd6zWcjnw9IMolWHHrZOU9A4LkUAu6DNpRCtfxvA/edit?usp=sharing)
+👀 Take a peek at my [Resume](https://docs.google.com/document/d/1-pl74vYx-sBlMQB3HYjuahthGufq4oMP7H0imVhgztI/edit?usp=sharing)
 <br>
 ## Languages and Tools
 ### Proficient:
