@@ -2,9 +2,12 @@
 
 <h2>I am Front End Developer & Designer in the US<br>and I am driven by learning and understanding</h2>
 
-If you like cool colors and [Panda Syntax](https://github.com/tinkertrain/panda-syntax-vscode) theme check out my VS Code theme [Cool Panda](https://cool-panda.vercel.app/)!
+Developer of [Dawnforge.app](https://dawnforge.app/)<br/>
+![DawnforgeOGImage](https://github.com/user-attachments/assets/42a90e9f-2136-40f2-b51f-d071c8a137a1)
 
 Using [Astro](https://astro.build/)? Checkout [astro-lenis](https://github.com/JusticeMatthew/astro-lenis) my integration for drop-in smooth scrolling with Lenis!
+
+If you like cool colors and [Panda Syntax](https://github.com/tinkertrain/panda-syntax-vscode) theme check out my VS Code theme [Cool Panda](https://cool-panda.vercel.app/)!
 
 
 ✨ Owner of [Majic Web Design](https://www.majicwebdesign.com/) reachable at **matthew@majicwebdesign.com** or on Discord @Arknoodle
