@@ -8,6 +8,7 @@
 
 🏢 Currently working for [The Seibert group](https://seibert.group/) and [World Population Review](https://worldpopulationreview.com/)
 
+---
 
 🐼 If you like cool colors and the [Panda Syntax](https://github.com/tinkertrain/panda-syntax-vscode) theme check out my VS Code theme [Cool Panda](https://cool-panda.vercel.app/)!
 
