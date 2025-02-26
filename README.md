@@ -9,7 +9,7 @@
 🏢 Currently working for [The Seibert group](https://seibert.group/) and [World Population Review](https://worldpopulationreview.com/)
 
 
-If you like cool colors and the [Panda Syntax](https://github.com/tinkertrain/panda-syntax-vscode) theme check out my VS Code theme [Cool Panda](https://cool-panda.vercel.app/)!
+🐼 If you like cool colors and the [Panda Syntax](https://github.com/tinkertrain/panda-syntax-vscode) theme check out my VS Code theme [Cool Panda](https://cool-panda.vercel.app/)!
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=justicematthew&show_icons=true&locale=en&&theme=nord&&layout=compact&hide_border=true&count_private=true&line_height=23&border_radius=false" alt="justicematthew" />
