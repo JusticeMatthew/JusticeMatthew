@@ -1,6 +1,6 @@
 <h1>Hi, I'm Matthew</h1>
 
-<h2>I am Front End Developer & Designer in the US<br>and I am driven by learning and understanding</h2>
+<h2>US based Developer & Designer <br>Driven by learning and understanding</h2>
 
 ✨ Owner of [Majic Web Design](https://www.majicwebdesign.com/) reachable at **matthew@majicwebdesign.com** or on Discord @Arknoodle
 
