@@ -4,7 +4,7 @@
 
 ✨ Owner of [Majic Web Design](https://www.majicwebdesign.com/) reachable at **matthew@majicwebdesign.com** or on Discord @Arknoodle
 
-🏢 Currently working for [The Seibert group](https://seibert.group/) and [World Population Review](https://worldpopulationreview.com/)
+🏢 Currently working for [Firstlook.gg](https://firstlook.gg/) and [World Population Review](https://worldpopulationreview.com/)
 
 ⚒️ Developer of [Dawnforge.app](https://dawnforge.app/)
 
