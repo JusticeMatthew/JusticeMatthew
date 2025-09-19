@@ -10,7 +10,8 @@
 
 ---
 
-🐼 If you like cool colors and the [Panda Syntax](https://github.com/tinkertrain/panda-syntax-vscode) theme check out my VS Code theme [Cool Panda](https://cool-panda.vercel.app/)!
+🐼 If you like cool tones and the [Panda Syntax](https://github.com/tinkertrain/panda-syntax-vscode) theme check out my VS Code theme [Cool Panda](https://cool-panda.vercel.app/)!</br>
+🐼 Also available for Cursor on [Open VSX](https://open-vsx.org/extension/JusticeMatthew/cool-panda)
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=justicematthew&show_icons=true&locale=en&&theme=nord&&layout=compact&hide_border=true&count_private=true&line_height=23&border_radius=false" alt="justicematthew" />
