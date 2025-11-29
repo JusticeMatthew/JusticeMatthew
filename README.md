@@ -1,19 +1,33 @@
-<h1>Hi, I'm Matthew</h1>
+# Matthew Justice
 
-<h2>US based Developer & Designer, driven by learning and understanding</h2>
+**US based Developer & Designer** building high quality, user friendly interfaces
 
-✨ Owner of [Majic Web Design](https://www.majicwebdesign.com/) reachable at **matthew@majicwebdesign.com** or on Discord @Arknoodle
-
-🏢 Currently working for [Firstlook.gg](https://firstlook.gg/)
-
-⚒️ Developer of [Dawnforge.app](https://dawnforge.app/)
+Working at [pragma](https://pragma.gg/) on [FirstLook.gg](https://firstlook.gg/)
 
 ---
 
-🐼 If you like cool tones and the [Panda Syntax](https://github.com/tinkertrain/panda-syntax-vscode) theme check out my VS Code theme [Cool Panda](https://cool-panda.vercel.app/)!</br>
-🐼 Also available for Cursor on [Open VSX](https://open-vsx.org/extension/JusticeMatthew/cool-panda)
+### Active Side Projects
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=justicematthew&show_icons=true&locale=en&&theme=nord&&layout=compact&hide_border=true&count_private=true&line_height=23&border_radius=false" alt="justicematthew" />
-<img alt="Night Coding" src="https://raw.githubusercontent.com/JusticeMatthew/JusticeMatthew/main/assets/Night-Coding.gif"/>
-</p>
+**[Dawnforge](https://dawnforge.app/)** – Card building app for the incredible game [Dawncaster](https://dawncaster.wanderlost.games/)  
+
+---
+
+---
+
+<div align="center">
+
+![](https://github.com/JusticeMatthew/JusticeMatthew/blob/output/snake.svg)
+
+<img src="https://github-readme-stats.vercel.app/api?username=JusticeMatthew&show_icons=true&theme=transparent&hide_border=true&title_color=19f9d8&text_color=e6e6e6&icon_color=19f9d8&bg_color=00000000" alt="GitHub Stats" />
+
+</div>
+
+---
+
+<details>
+<summary>📫 Get in touch</summary>
+<br>
+
+Email: [matthew@majicwebdesign.com](mailto:matthew@majicwebdesign.com)
+
+</details>
