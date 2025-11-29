@@ -12,8 +12,6 @@ Working at [pragma](https://pragma.gg/) on [FirstLook.gg](https://firstlook.gg/)
 
 ---
 
----
-
 
 <div align="center">
 
