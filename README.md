@@ -2,7 +2,7 @@
 
 **US based Developer & Designer** building high quality, user friendly interfaces
 
-Working at [pragma](https://pragma.gg/) on [FirstLook.gg](https://firstlook.gg/)
+Working at [pragma](https://pragma.gg/) on [FirstLook.gg](https://firstlook.gg/), [Creators.gg](https://creators.gg), and [Player.gg](https://player.gg)
 
 ---
 
